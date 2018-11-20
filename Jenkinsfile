@@ -1,2 +1,2 @@
 
-System.out.println("hexiaoh-test")
+println("hexiaoh-test")
